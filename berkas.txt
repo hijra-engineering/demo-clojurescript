@@ -1,0 +1,3 @@
+Nama = JakartaJS
+Lokasi = Plaza 89
+Hari = Kamis
