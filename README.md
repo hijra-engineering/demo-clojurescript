@@ -1,5 +1,7 @@
 # Demo ClojureScript
 
+Repository ini berisi contoh demo untuk belajar ClojureScript yang dibahas [Hijra Engineering Talk + JakartaJS](https://www.meetup.com/jakartajs/events/292126900) tanggal 16 Maret 2023 yang silam.
+
 Yang dibutuhkan: [Node.js](https://nodejs.org/) versi 16 atau lebih baru.
 
 Langkah pertama, pasang semua dependensi terlebih dahulu:
